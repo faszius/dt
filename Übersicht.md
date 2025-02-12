@@ -43,7 +43,7 @@ Subtrahieren (Dafür zweite Binärzahl in eine negative Zweierkomplementzahl umr
 
 Jedes Zahlensystem in's Dezimalsystem (mit Horner-Schema, erfordert allgemeines Verständnis wie Zahlensysteme mit anderen Basen funktionieren!)
 
-#### Dezimal Zu Binär
+#### Dezimal $\leftrightarrow$ Binär
 
 In normale Binärzahlen
 In Zweierkomplement Binärzahlen
@@ -66,7 +66,8 @@ Dafür Nibble-Werte/drei-Bit-Werte im Idealfall auswendig lernen
 
 [[dt_folien_03_v1.pdf#page=5|dt_folien_03_v1, page 5]]
 
-$V_{OH}, V_{OL}, V{IH}, V_{IL}, NM_H, NM_L$
+$V_{OH}, V_{OL}, V_{IH}, V_{IL}, NM_H, NM_L$ verstehen und mithilfe von gegebenen Werten vielleicht ausrechnen können
+$V_{DD}$
 
 ### Transistoren
 
@@ -188,7 +189,7 @@ Timing-Diagramme ausfüllen können
 #### Glitches
 
 Mithilfe von Karnaugh-Diagrammen Glitches in einer Schaltung erkennen und beheben können
-Glitches in einem Timing-Diagramm erkennen
+(Glitches in einem Timing-Diagramm erkennen)
 
 ### Mehrwertige Logik
 
@@ -226,7 +227,7 @@ Funktionsweise und Aufbau können
 
 [[dt_folien_08_v1.pdf#page=15|dt_folien_08_v1, page 15]]
 
-Eigenschaften wissen/unterschied zu kombinatorischer Logik
+Eigenschaften wissen/Unterschied zu kombinatorischer Logik
 
 ### Speicherelemente
 
@@ -256,7 +257,7 @@ Durchsatz/Latenz berechnen können
 
 [[dt_folien_09_v1.pdf#page=28|dt_folien_09_v1, page 28]]
 
-Arten der Parallelität kennen
+(Arten der Parallelität kennen)
 Begrifflichkeiten verstehen (Unterschied Durchsatz/Latenz zum Beispiel)
 
 ## Automaten
@@ -292,6 +293,7 @@ Funktionsweise von Flash-Zellen verstehen
 [[dt_folien_12_v1.pdf#page=29|dt_folien_12_v1, page 29]]
 
 Funktionsweise PLA verstehen
+#TODO ASIC
 Funktionsweise FPGA verstehen, Aufbau können?
 Funktionsweise einzelner Teile können?
 
@@ -316,7 +318,7 @@ Z.B. aus Schaltplan System-Verilog-Formel schreiben
 
 Aufbau eines Moduls können, Module selbst schreiben können
 Submodule instanziieren und verwenden können 
-Einfache Module ohne Probleme OHNE SYNTAX HIGHLIGHTING (irgendwie in einem simplen Texteditor ohne Plugins oder so (oder am besten gleich auf Papier und dann in VSC abtippen xD)) selbst schreiben (z.B. Eingänge A und B, Ausgang Y, berechnet irgendeine Formel mit A und B)
+Einfache Module ohne Probleme selbst schreiben (z.B. Eingänge A und B, Ausgang Y, berechnet irgendeine Formel mit A und B)
 
 ### Multiplexer
 
@@ -334,7 +336,7 @@ Wichtig bei Vektoren: Operationen auf Vektoren und **Unterschied bitweise/logisc
 
 #### Assign
 
-Funktionsweise assign-Statement verstehen (konstante Zuweisung, wie Kabel)
+Funktionsweise assign-Statement verstehen (dauerhaft laufende Zuweisung, wie Kabel)
 
 #### always_comb
 
