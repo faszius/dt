@@ -1,9 +1,6 @@
-dt_uebungen/*
-dt_tutorium/*
-dt_notizen/*
-dt_hilfsblatt_klausur.pdf
-dt_hausuebungen/*
-.DS_Store
-.obsidian/**
+*
+!.gitignore
+!Übersicht.md
+!README.md
 !.obsidian/app.json
 !.obsidian/graph.json
