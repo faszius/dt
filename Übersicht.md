@@ -384,3 +384,7 @@ Unterschied Testbench und Modul verstehen
 RAM in SystemVerilog umsetzen können
 ROM in SystemVerilog umsetzen können
 
+## Pipelines
+
+Pipelines in SystemVerilog umsetzen können
+Siehe Aufgabe 9.4!
