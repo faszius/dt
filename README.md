@@ -32,5 +32,5 @@ Die [[Übersicht]] Datei beinhaltet eine Übersicht über alle Themen und zu jed
 ## Ordner    
 
 All Notizen sind in `dt_notizen`  
-Alle Bilder in den Notizen sind in `dt_bilder`
-All Folien sind in `dt_folien`  
+Alle Bilder in den Notizen sind in `dt_bilder`  
+Alle Folien sind in `dt_folien`  
